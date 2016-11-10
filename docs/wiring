@@ -1,0 +1,21 @@
+
+
+Arduino Uno to microsd card sd adapter Wiring
+
+
+Arduino - sd adapter
+ pin 10 - pin 1 CS
+ pin 11 - pin 2 DI
+ GND    - pin 3 VSS1
+ 3.3v   - pin 4 VDD
+ pin 13 - pin 5 SCLK
+ GND    - pin 6 VSS2
+ pin 12 - pin 7 DO
+
+
+
+sd adapter pinout diagram
+
+ ||||||||
+|
+912345678
